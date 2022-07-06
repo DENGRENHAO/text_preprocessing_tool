@@ -10,10 +10,10 @@
 git clone https://github.com/DENGRENHAO/text_preprocessing_tool.git
 ```
 ```
-pip3 install -r requirements.txt
-```
-```
 cd .\text_preprocessing_tool\
+```
+```
+pip3 install -r requirements.txt
 ```
 
 ## Usage
@@ -30,4 +30,4 @@ python3 main.py --help
 python3 main.py -i C:\thomas\test\text_preprocessing_tool\linebot_data.csv
 ```
 
-- 來源檔案`linebot_data.csv`位於 `C:\thomas\test\text_preprocessing_tool\`中，最後會輸出檔案`new_linebot_data.csv`到本料夾中
+- 來源檔案`linebot_data.csv`位於 `C:\thomas\test\text_preprocessing_tool\`中，最後會輸出檔案`new_linebot_data.csv`到本資料夾中
